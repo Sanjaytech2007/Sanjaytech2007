@@ -19,7 +19,7 @@
 - Python
 - C
 - C++
-- Java
+  
 
 **Tools & Technologies**
 - Git & GitHub
@@ -41,7 +41,7 @@
 
 1. 🔐 AI-Based Phishing Detection and Prevention System
 2. 🔑 AI-Based Smart Password Strength Analyzer
-3. 🔥 ESP32-Based IoT Fire and Gas Leakage Detection System
+3. 🔥 Automatic Street Light using LDR Sensor
 4. 🏥 Cloud-Based Hospital Resource Monitoring and Demand Analysis
 5. 🛒 SJS Shopping Mall – Shopping and Delivery Application
 
