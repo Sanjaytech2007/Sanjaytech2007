@@ -1,11 +1,6 @@
-# 👋 Hi, I'm Sanjay S!
-
-### 🎓 Computer Science Engineering Student | 💻 Programmer | 🚀 Tech Enthusiast
-
-Welcome to my GitHub profile! I'm passionate about programming, software development, cybersecurity, Artificial Intelligence and emerging technologies.
-
----
-
+<p align="center">
+  <img src="github-banner.png" width="100%">
+</p>
 ### 👨‍💻 About Me
 
 - 🎓 Computer Science Engineering Student
